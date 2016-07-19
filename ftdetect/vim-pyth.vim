@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.pyth set filetype=pyth
+au BufNewFile,BufRead *.pyth setfiletype pyth
