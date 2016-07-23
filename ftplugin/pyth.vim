@@ -1,3 +1,5 @@
+" Copyright (C) 2016 Theophile Cailliau
+" You can get a copy of the license on http://www.gnu.org/licenses/gpl.txt
 let g:pyth_interpreter_path = get(g:, 'pyth_interpreter_path', "~/pyth/pyth.py")
 let g:pyth_arguments = get(g:, 'pyth_arguments', '-cD')
 
